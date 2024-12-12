@@ -10,7 +10,7 @@ import BadFIDScore from './components/Fid/BadFid';
 const App = () => {
   return (
 <Router>
-      <h1>Welcome to Poor Web Vitals</h1>
+      <h1>Welcome to Web Vitals</h1>
           <Routes>
             <Route path="/fid-good" element={<GoodFIDScore />} />
             <Route path="/fid-bad" element={<BadFIDScore />} />
