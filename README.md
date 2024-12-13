@@ -1,5 +1,5 @@
 
-# Poor Web Vitals - React App
+# Good vs Poor Web Vitals - React App
 
 ## Overview
 This project demonstrates how poor web vitals can affect the user experience of a website. The application is built using React, and the focus is on measuring and displaying different core web vitals scores like FID (First Input Delay), LCP (Largest Contentful Paint), and CLS (Cumulative Layout Shift).
